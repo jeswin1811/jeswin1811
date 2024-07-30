@@ -1,4 +1,9 @@
-<h1 align="center">👋 Hello, I'm Jeswin Thampichan Joseph!</h1>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=jeswin1811&label=Profile%20Views&color=1&icon=0&pretty=true" />
+</a><h1 align="center">👋 Hello, I'm Jeswin Thampichan Joseph!</h1>
+
+
+
 
 ###
 
@@ -36,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="photoshop logo"  />
 </div>
 
