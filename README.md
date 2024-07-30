@@ -2,7 +2,10 @@
 
 ###
 
-<h3 align="left">🎓 Student at St. Joseph's College of Engineering and Technology, Palai, pursuing Computer Science and Engineering.<br>🌟 Passionate about programming, problem solving, entrepreneurship, design, microcontrollers and electronics.<br>📚 Currently Learning: Data structures using C and Java.<br>📝 Blogging on Medium: Check out my latest posts <a href="https://medium.com/@jeswintj16">here</a>.<br>📧 Contact Me: jeswintj16@gmail.com</h3>
+<h3 align="center">I'm a student at St. Joseph's College of Engineering and Technology, Palai, pursuing Computer Science and Engineering. I'm passionate about programming, problem solving, entrepreneurship, design, microcontrollers and electronics.<br>
+  📚 Currently learning Data structures using C and Java.<br>
+  📝 Blogging on Medium: Check out my latest posts <a href="https://medium.com/@jeswintj16">here</a>.<br>
+  📧 Contact Me: jeswintj16@gmail.com</h3>
 
 ###
 
@@ -38,4 +41,17 @@
 
 ###
 
-![Jeswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeswin1811&show_icons=true&theme=radical)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jeswin1811&theme=radical" />
+    <img src="https://streak-stats.demolab.com?user=jeswin1811&theme=radical" />
+</picture>
+
+###
+<div align="center>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jeswin1811&theme=github-compact" alt="Jeswin's github activity graph"></a>
+</div>
+
+
+<div align="center">
+  <img src="https://github.com/jeswin1811/jeswin1811/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg" alt="snake gif">
+</div>
