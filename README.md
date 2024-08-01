@@ -50,7 +50,7 @@
 <h2 align="left">Github Stats</h2>
 
 ###
-<img align="right" alt="Coding" width="310" height="420" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh5YWxodHluYXM1Z200MDE5aHdmZ283b3JrYzc0azd3MGwyanozZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9mJwt7U9UraMM/giphy.webp">
+<img align="right" alt="Coding" width="320" height="420" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh5YWxodHluYXM1Z200MDE5aHdmZ283b3JrYzc0azd3MGwyanozZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9mJwt7U9UraMM/giphy.webp">
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=jeswin1811&theme=radical" alt="Jeswin's github stats">
