@@ -1,14 +1,6 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=jeswin1811&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</a><h1 align="center">👋 Hello, I'm Jeswin Thampichan Joseph!</h1>
-
-
-
-
 ###
 
-<h3 align="center">I'm a student at St. Joseph's College of Engineering and Technology, Palai, pursuing Computer Science and Engineering. I'm passionate about programming, problem solving, entrepreneurship, design, microcontrollers and electronics.<br>
-  📚 Currently learning Data structures using C and Java.<br>
+<h3 align="center">I'm a student at St. Joseph's College of Engineering and Technology, Palai, pursuing Computer Science and Engineering. I'm passionate about programming, problem solving, entrepreneurship, DevOps, AI/ML, blockchain and security.<br>
   📝 Blogging on Medium: Check out my latest posts <a href="https://medium.com/@jeswintj16">here</a>.<br>
   📧 Contact Me: jeswintj16@gmail.com</h3>
 
@@ -39,10 +31,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
 </div>
 
 ###
