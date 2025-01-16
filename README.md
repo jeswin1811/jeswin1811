@@ -66,5 +66,5 @@
 
 
 <div align="center">
-  <img src="https://github.com/jeswin1811/jeswin1811/blob/manual-run-output/docker/github-contribution-grid-snake.svg" alt="snake gif">
+  <img src="https://github.com/jeswin1811/jeswin1811/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
 </div>
