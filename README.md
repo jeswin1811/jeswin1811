@@ -1,5 +1,3 @@
-<img align="center" alt="eyeteyey" height="200" width="1000" src="https://github.com/user-attachments/assets/710293a3-a05f-4b56-864c-39651e368164">
-
 ###
 
 <h3 align="center">I'm a student at St. Joseph's College of Engineering and Technology, Palai, pursuing Computer Science and Engineering. I'm passionate about programming, problem solving, entrepreneurship, DevOps, AI/ML, blockchain and security.<br>
